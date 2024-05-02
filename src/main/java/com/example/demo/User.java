@@ -9,7 +9,7 @@ public class User {
     public int getId() {
         return id;
     }
-
+    //set id
     public void setId(int id) {
         this.id = id;
     }
@@ -17,7 +17,7 @@ public class User {
     public String getName() {
         return name;
     }
-
+  //set name
     public void setName(String name) {
         this.name = name;
     }
