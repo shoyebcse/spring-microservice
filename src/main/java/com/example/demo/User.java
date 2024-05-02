@@ -17,7 +17,7 @@ public class User {
     public String getName() {
         return name;
     }
-
+  //set name
     public void setName(String name) {
         this.name = name;
     }
